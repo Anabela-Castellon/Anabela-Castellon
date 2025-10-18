@@ -1,6 +1,6 @@
-## <p align="center">¡Hola, soy Anabela - Bienvenid@! 🌙✨</p>
+# <p align="center">¡Hola, soy Anabela - Bienvenid@! 🌙✨</p>
 
-### 🔎 Un poco sobre mi: 
+## 🔎 Un poco sobre mi: 
 
 🎓 Estudiante de **Ingeniería en Informática** (UADE), con un gran interés por el desarrollo web y la seguridad informática.  
 
@@ -13,10 +13,32 @@
 🌱 Soy una persona **curiosa, responsable y con muchas ganas de seguir creciendo** en el mundo IT. Siempre estoy buscando desafíos que me permitan aprender algo nuevo y aplicar mis conocimientos en proyectos reales.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/main/female-developer-vector.jpg" alt="banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/Anabela-Castellon/Anabela-Castellon/main/female-developer-vector.jpg"
+    alt="imagen"
+    width="400"/> 
 </p>
 
+## Lenguajes & Conocimientos
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
+
+## Herramientas
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 🚀 Proyectos
+Les comparto el último proyecto en el que trabajé junto a mi equipo para la materia Desarrollo Web. Se trata de Davinci, una página web de ropa, diseñada para brindar una experiencia de compra intuitiva y visualmente atractiva. Durante el desarrollo aplicamos conocimientos de diseño web, HTML, CSS y JavaScript, enfocándonos en la presentación de productos y navegación.
+
+https://github.com/Anabela-Castellon/DaVinci-2024.git
+
+## 📱 ¿Cómo contactarme?
+- **E-mail:** anabela_cristina2013@hotmail.com
+- **Linkedin:** https://www.linkedin.com/in/anabela-cristina-castellón/
 
 
 

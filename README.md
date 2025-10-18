@@ -1,6 +1,6 @@
 ## ¡Hola, soy Anabela - Bienvenid@! 🌙✨
 
-## Un poco sobre mi:
+### Un poco sobre mi:
 
 <!--
 **Anabela-Castellon/Anabela-Castellon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

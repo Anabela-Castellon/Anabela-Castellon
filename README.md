@@ -1,6 +1,6 @@
 ## ¡Hola, soy Anabela - Bienvenid@! 🌙✨
 
-### 🔎 Un poco sobre mi: 
+#### 🔎 Un poco sobre mi: 
 
 🎓 Soy estudiante de **Ingeniería en Informática en UADE**, con un gran interés por el desarrollo web y la seguridad informática.  
 

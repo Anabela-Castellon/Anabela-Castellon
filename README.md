@@ -13,7 +13,7 @@
 🌱 Soy una persona **curiosa, responsable y con muchas ganas de seguir creciendo** en el mundo IT. Siempre estoy buscando desafíos que me permitan aprender algo nuevo y aplicar mis conocimientos en proyectos reales.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/main/banner.png" alt="banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/main/female-developer-vector.jpg" alt="banner" width="800"/>
 </p>
 
 

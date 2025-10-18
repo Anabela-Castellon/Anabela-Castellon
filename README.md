@@ -1,8 +1,8 @@
-## ¡Hola, soy Anabela - Bienvenid@! 🌙✨
+## <p align="center">¡Hola, soy Anabela - Bienvenid@! 🌙✨</p>
 
-#### 🔎 Un poco sobre mi: 
+### 🔎 Un poco sobre mi: 
 
-🎓 Soy estudiante de **Ingeniería en Informática en UADE**, con un gran interés por el desarrollo web y la seguridad informática.  
+🎓 Estudiante de **Ingeniería en Informática** (UADE), con un gran interés por el desarrollo web y la seguridad informática.  
 
 💡 Disfruto aprender nuevas tecnologías y encontrar maneras de combinar la **lógica de la programación** con la **creatividad del diseño**.  
 
@@ -10,8 +10,14 @@
 
 🛡️ También me interesa explorar cómo aplicar **buenas prácticas de seguridad** en el desarrollo de software para proteger aplicaciones y datos.  
 
-🌱 Soy una persona **curiosa, responsable y con muchas ganas de seguir creciendo** en el mundo IT.  
-Siempre estoy buscando desafíos que me permitan aprender algo nuevo y aplicar mis conocimientos en proyectos reales.
+🌱 Soy una persona **curiosa, responsable y con muchas ganas de seguir creciendo** en el mundo IT. Siempre estoy buscando desafíos que me permitan aprender algo nuevo y aplicar mis conocimientos en proyectos reales.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/main/banner.png" alt="banner" width="800"/>
+</p>
+
+
+
 
 
 <!--

@@ -38,7 +38,7 @@ https://github.com/Anabela-Castellon/DaVinci-2024.git
 
 ## 📱 ¿Cómo contactarme?
 - **E-mail:** anabela_cristina2013@hotmail.com
-- **Linkedin:** https://www.linkedin.com/in/anabela-cristina-castellón/
+- **Linkedin:** www.linkedin.com/in/anabela-cristina-castellón-84035338b
 
 
 

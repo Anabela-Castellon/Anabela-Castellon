@@ -1,5 +1,6 @@
 ## ¡Hola, soy Anabela - Bienvenid@! 👋
-
+---
+## Un poco sobre mi
 <!--
 **Anabela-Castellon/Anabela-Castellon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...Soy estudiante de **Ingeniería en Informática en UADE**, con una gran curiosidad por todo lo que combina **tecnología, diseño y seguridad digital**.  
+Me gusta construir proyectos que no solo funcionen bien, sino que también se vean y se sientan bien.
 - ⚡ Fun fact: ...
 -->

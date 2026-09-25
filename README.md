@@ -34,7 +34,7 @@
 ## 🚀 Proyectos
 Les comparto el último proyecto en el que trabajé junto a mi equipo para la materia Desarrollo Web. Se trata de Davinci, una página web de ropa, diseñada para brindar una experiencia de compra intuitiva y visualmente atractiva. Durante el desarrollo aplicamos conocimientos de diseño web, HTML, CSS y JavaScript, enfocándonos en la presentación de productos y navegación.
 
-https://github.com/Anabela-Castellon/DaVinci-2024.git
+https://github.com/Anabela-Castellon/DaVinci
 
 ## 📱 ¿Cómo contactarme?
 - **E-mail:** anabela_cristina2013@hotmail.com

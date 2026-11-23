@@ -1,28 +1,20 @@
+<h2 align="center"> 🌙¡Hola, Soy Anabela!🌙</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/anabela-cristina-castellon/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Anabela-Castellon" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-<div align="center">
-
-#### ☾ Anabela Castellón
-
-<sub>Estudiante de Ingeniería en Informática · Frontend & Backend</sub>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-17233D?style=flat-square&logo=linkedin&logoColor=C9D1D9)](https://www.linkedin.com/in/anabela-cristina-castellon/)
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-17233D?style=flat-square&logo=github&logoColor=C9D1D9)](https://github.com/Anabela-Castellon)
-
-</div>
-
----
-
-#### 🌙 Sobre mí
-
-#### ☾ Sobre mí
-
+### 🌙 Sobre mí...
 Soy estudiante avanzada de **Ingeniería en Informática en UADE**, con interés en el desarrollo de software y una orientación hacia el desarrollo **Full Stack**.
 Me interesa participar en las distintas etapas de creación de una aplicación: desde el diseño de interfaces y la experiencia de usuario hasta la lógica de negocio, el desarrollo de APIs y la gestión de bases de datos.
 A través de proyectos académicos, fui incorporando experiencia con distintas tecnologías y herramientas, trabajando tanto en el frontend como en el backend. Disfruto enfrentar nuevos desafíos, explorar soluciones y seguir fortaleciendo mis habilidades técnicas.
 Actualmente, busco continuar creciendo como desarrolladora, ampliar mis conocimientos y participar en proyectos donde pueda aportar, aprender y evolucionar profesionalmente. ✦
 
-
-#### ✦ Tecnologías y herramientas
+#### ✦ Tecnologías y herramientas:
 
 **⌘ Lenguajes**
 
@@ -63,12 +55,10 @@ Actualmente, busco continuar creciendo como desarrolladora, ampliar mis conocimi
 **NauticApp — Seminario de Integración Profesional (2025)**
 
 Aplicación web orientada a la consulta de información sobre distintos puntos náuticos, incluyendo información climática.
-
 - **Frontend:** React, TypeScript y Leaflet.
 - **Backend:** Python y FastAPI.
 - **Base de datos:** PostgreSQL.
 - **Infraestructura:** Docker Compose.
-
 Proyecto grupal desarrollado como parte de la carrera de Ingeniería en Informática en UADE.
 
 #### ✧ Formación
@@ -76,10 +66,9 @@ Proyecto grupal desarrollado como parte de la carrera de Ingeniería en Informá
 - **Ingeniería en Informática** — UADE  
   Estudiante avanzada · 36 materias aprobadas.
 - **Google Cloud Computing Foundations** — En curso.
-- **Python** — Arrow Academy (2022).
 - **Cambridge English B1** — Certificación.
 
-#### 🌙 Idiomas
+#### ☾ Idiomas
 
 - Español: Nativo.
 - Inglés: Nivel B1 (Cambridge).

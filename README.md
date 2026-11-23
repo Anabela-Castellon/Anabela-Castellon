@@ -58,15 +58,13 @@ Su objetivo es facilitar la búsqueda de lugares y condiciones adecuadas para re
 
 **Repositorio:** [Anabela-Castellon/Nautic_app](https://github.com/Anabela-Castellon/Nautic_app)
 
-#### ✧ Formación
-
+#### ✧ Formación:
 - **Ingeniería en Informática** — UADE  
   Estudiante avanzada · 36 materias aprobadas.
 - **Google Cloud Computing Foundations** — En curso.
 - **Cambridge English B1** — Certificación.
 
-#### ☾ Idiomas
-
+#### ☾ Idiomas:
 - Español: Nativo.
 - Inglés: Nivel B1 (Cambridge).
 

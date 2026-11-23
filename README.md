@@ -50,16 +50,13 @@ Actualmente, busco continuar creciendo como desarrolladora, ampliar mis conocimi
 ![Figma](https://img.shields.io/badge/Figma-17233D?style=flat-square&logo=figma&logoColor=F24E1E)
 
 
-#### ☾ Proyecto destacado
+#### ☾ Proyecto destacado:
+#### NauticApp — Seminario de Integración Profesional (2025)
 
-**NauticApp — Seminario de Integración Profesional (2025)**
+Les comparto el último proyecto desarrollado junto a mi equipo para la materia Seminario de Integración Profesional de UADE. NauticApp es una plataforma web que reúne spots náuticos geolocalizados e información sobre las condiciones climáticas y de mareas en un mapa interactivo. Permite explorar y filtrar ubicaciones según distintas actividades deportivas, como surf, kitesurf y kayak, además de conectar a los usuarios con negocios locales, como escuelas y tiendas especializadas.
+Su objetivo es facilitar la búsqueda de lugares y condiciones adecuadas para realizar actividades náuticas, al mismo tiempo que brinda mayor visibilidad a los servicios y emprendimientos de la comunidad.
 
-Aplicación web orientada a la consulta de información sobre distintos puntos náuticos, incluyendo información climática.
-- **Frontend:** React, TypeScript y Leaflet.
-- **Backend:** Python y FastAPI.
-- **Base de datos:** PostgreSQL.
-- **Infraestructura:** Docker Compose.
-Proyecto grupal desarrollado como parte de la carrera de Ingeniería en Informática en UADE.
+**Repositorio:** [Anabela-Castellon/Nautic_app](https://github.com/Anabela-Castellon/Nautic_app)
 
 #### ✧ Formación
 
